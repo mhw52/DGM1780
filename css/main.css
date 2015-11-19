@@ -1,0 +1,62 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+/* Fix the logo and add color */
+
+.jumbotron{
+background-color: #b0c4de;
+
+}
+
+#greeting{
+padding-left: 100px;
+}
+
+
+
+
+
+
+/* Normalize sizes of carousel images */
+.crop {
+ height: 600px;
+ width: 800px;
+ overflow: hidden;
+}
+.crop img {
+ height: auto;
+ width: 700px;
+}
+
+
+
+/* rows */
+div.columns{
+border-style: double;
+Padding: 25px;
+Margin-top: 25px;
+Margin-bottom: 35px;
+background-color: #FFFDF6;
+}
+
+
+/* Thumbnails */
+
+div.thumbnails{
+padding-bottom: 25px;
+text-align: center;
+}
+
+
+
+
+
